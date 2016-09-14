@@ -10,7 +10,7 @@
 	$result = mysql_query($query) or die ("ERROR QUERY");
 	if($comp = mysql_fetch_row($result))
 	{
-		echo "Ingreso";
+		echo "Ingreso exitoso";
 	}
 	else
 	{
