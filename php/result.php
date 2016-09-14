@@ -14,7 +14,7 @@
 	}
 	else
 	{
-		echo "No ingreso";
+		echo "No ingreso correctamente";
 	}
 
 
