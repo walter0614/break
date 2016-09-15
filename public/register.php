@@ -42,8 +42,8 @@
 		  	</div>
 		  	<div class="form-group">
 		    		<label for="">Seleccione el tipo: </label>
-		    		<label><input type="radio" name="tipoUsuario1" value="usuario">Usuario</label>
-		    		<label><input type="radio" name="tipoUsuario2" value="proveedor">Proovedor</label>
+		    		<label><input type="radio" name="tipoUsuario" value="usuario">Usuario</label>
+		    		<label><input type="radio" name="tipoUsuario" value="proveedor">Proovedor</label>
 		  	</div>
 		  	<div class="form-group">
 		    	<input type="text" class="form-control" name="user_cel" id="user_cel" placeholder="Ingrese su número de contacto">
