@@ -38,7 +38,17 @@
 			</div>
 		</div>
 	
-
+	<div class="row breakImage">
+		<div class="col-md-12">
+			<img id="breakImage" src="images/break.jpg" alt="">
+			<div class="imageTittleContainer">
+				<h1 class="imageTittle">
+					Servicios a la mano.
+				</h1>	
+			</div>
+			
+		</div>
+	</div>
 
 
 

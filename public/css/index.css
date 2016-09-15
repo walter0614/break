@@ -7,3 +7,27 @@
 {
 	color: white;
 }
+
+.breakImage
+{
+	position: relative;
+}
+.imageTittleContainer
+{
+	position: absolute;
+	z-index: 1;
+	top: 40%;
+	left: 30%;
+}
+
+.imageTittle
+{
+	color: white;
+	font-size: 7em;
+}
+
+#breakImage
+{
+	width: 100%;
+	height: 800px;
+}
