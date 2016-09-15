@@ -46,10 +46,35 @@
 					Servicios a la mano.
 				</h1>	
 			</div>
-			
 		</div>
 	</div>
 
+	<div class="container">
+		<div class="descriptionContainer row">
+			<div class="description col-md-4">
+				<img class="descriptionImage circle" src="images/description1.png" alt="">
+				<h2>Encuetra lo que necesitas</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse, repellat quidem modi dolore molestiae maxime omnis nulla porro dicta, recusandae perferendis officiis cum itaque reprehenderit facere doloribus assumenda in veritatis.</p>
+			</div>
+			<div class="description col-md-4">
+				<img class="descriptionImage circle" src="images/description2.png" alt="">
+				<h2>Rápido</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam quidem voluptate ducimus explicabo sunt expedita enim in, hic officiis tempore, velit eligendi sint! Incidunt ullam, quis. Aspernatur laborum, architecto eligendi.</p>
+			</div>
+			<div class="description col-md-4">
+				<img class="descriptionImage circle" src="images/description3.png" alt="">
+				<h2>Seguro</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui tempore excepturi ducimus, delectus impedit in hic voluptatum voluptas accusamus a consectetur reprehenderit. Non, necessitatibus maiores, distinctio quia aliquid et inventore!</p>
+			</div>
+		</div>
+	</div>
+
+	<hr class="featurette-divider">
+	<footer>
+		<div class="footerText">
+			<h2>Break 2016 - Algunos derechos reservados</h2>
+		</div>
+	</footer>
 
 
 

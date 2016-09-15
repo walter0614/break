@@ -1,3 +1,7 @@
+body {
+  overflow-x:hidden;
+}
+
 .navbar
 {
 	background-color: black;
@@ -7,7 +11,7 @@
 {
 	color: white;
 }
-
+/*---------------------------------------------*/
 .breakImage
 {
 	position: relative;
@@ -25,6 +29,45 @@
 	color: white;
 	font-size: 7em;
 }
+
+/*---------------------------------------------*/
+.descriptionContainer
+{
+	margin-top: 100px ;
+	margin-bottom: 100px;
+}
+
+
+.description
+{
+	text-align: center;
+	padding: 0px 15px;
+
+}
+
+.descriptionImage
+{
+	width: 100px;
+}
+
+
+
+
+footer
+{
+	text-align: center;
+	background-color: black;
+	height: 150px;
+	color: white;
+}
+
+.footerText
+{
+	position: relative;
+	top: 50px;
+}
+
+/*---------------------------------------------*/
 
 #breakImage
 {
